@@ -46,7 +46,7 @@
 		position: absolute;
 		width: 100%;
 		height: 100%;
-		background: rgb(11, 10, 29);
+		background-color: rgb(11, 10, 29);
 	}
 
 	.copy {
